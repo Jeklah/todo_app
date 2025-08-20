@@ -1,0 +1,27 @@
+[
+  {
+    "id": 0,
+    "text": "Learn Rust programming",
+    "completed": true
+  },
+  {
+    "id": 1,
+    "text": "Build a todo app with egui",
+    "completed": true
+  },
+  {
+    "id": 2,
+    "text": "Add persistent storage",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "text": "Write comprehensive documentation",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "text": "Test the application thoroughly",
+    "completed": false
+  }
+]
